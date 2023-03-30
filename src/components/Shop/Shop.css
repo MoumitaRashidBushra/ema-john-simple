@@ -11,15 +11,3 @@
 
     margin: 50px;
 }
-
-.cart-container {
-    background: rgba(255, 153, 0, 0.3);
-}
-
-.cart-container h4 {
-    text-align: center;
-}
-
-.cart-container p {
-    padding-left: 20px;
-}

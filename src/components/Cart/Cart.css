@@ -1,0 +1,17 @@
+.cart {
+    background: rgba(255, 153, 0, 0.3);
+    width: 240px;
+    height: 944px;
+    position: sticky;
+    top: 0;
+}
+
+.cart h4 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.cart p,
+h6 {
+    padding-left: 20px;
+}
