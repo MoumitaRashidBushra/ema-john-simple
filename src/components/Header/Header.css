@@ -1,0 +1,26 @@
+.header {
+    background: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    margin-left: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-right: 20px;
+
+}
+
+nav a:hover {
+    color: #f2a81d;
+}
+
+.atag {
+    margin-right: 40px;
+}
